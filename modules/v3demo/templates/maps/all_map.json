@@ -1,0 +1,18 @@
+{
+    "%view_key":"use_tpl_view",
+    "%map_names": ["mapKeyValue"],
+    "%maps":[{
+             "%name": "mapKeyValue",
+             "%value": {
+                        "AccountID": "Account ID",
+                        "Pwd": "Password",
+                        "Name": "Name",
+                        "Save": "Save",
+                        "Logout": "Log Out",
+                        "Successful": "Successful"
+                       },
+             "%route": {
+                        "Key1": ["v3demo", "index", "in-tpl"]
+                       }
+    }]
+}
